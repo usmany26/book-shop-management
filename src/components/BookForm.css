@@ -1,0 +1,36 @@
+.bookform{
+    text-align: center;
+}
+
+.form{
+    background-color: #e7e9eb;
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.submit__btn{
+    padding: 10px 25px;
+    width: 50%;
+    background-color: rgb(224, 25, 25);
+    margin-top: 20px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    outline: none;
+  }
+  

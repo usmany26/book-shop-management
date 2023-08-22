@@ -1,0 +1,22 @@
+.booksList{
+    text-align: center;
+    margin: 50px auto;
+    width: 50%;
+    height: auto;
+    background-color: teal;
+    padding: 20px;
+}
+
+.item__container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #fff;
+    margin-top: 10px;
+}
+
+.item span{
+    margin-left: 3px;
+}
